@@ -1,0 +1,16 @@
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.csprojAssemblyReference.cache
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.AssemblyInfoInputs.cache
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.AssemblyInfo.cs
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.csproj.CoreCompileInputs.cache
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.exe
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.deps.json
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.runtimeconfig.json
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.runtimeconfig.dev.json
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.dll
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\ref\hw2.dll
+H:\Comp Sci\cs577\hw2\bin\Debug\net5.0\hw2.pdb
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.dll
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\ref\hw2.dll
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.pdb
+H:\Comp Sci\cs577\hw2\obj\Debug\net5.0\hw2.genruntimeconfig.cache
